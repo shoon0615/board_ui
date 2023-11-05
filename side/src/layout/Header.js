@@ -2,7 +2,7 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 
-const Header = () => {
+const Header123 = () => {
   return (
     <header>
       {/*<a href="/">홈</a>*/}       {/*a 태그: 페이지 새로고침(페이지 이동)*/}
