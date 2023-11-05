@@ -1,7 +1,7 @@
 /* Footer.js */
 import React from 'react';
 
-const Footer = () => {
+const Footer123 = () => {
   return (
     <footer>
       <hr/>
